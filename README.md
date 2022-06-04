@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SahilSawal
 - 👀 I’m interested in Reading,Travelling and Coding. 
-- 🌱 I’m currently learning javascript//css3//html5
+- 🌱 I’m currently javascript//css3//html5/python/Nodejs
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : sahilsawal959@gmail.com
 
